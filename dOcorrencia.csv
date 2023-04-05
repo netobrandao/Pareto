@@ -1,0 +1,26 @@
+ID_Ocorrencia,Ocorrencia,Tipo
+1,Falha na Operação,REJ
+2,Peça Batida / danificada,REJ
+3,Banho Irregular,REJ
+4,Matéria Prima Irregular,REJ
+5,Dimensional,REJ
+6,Forjado Irregular,REJ
+7,Alteração / Erro Projeto,REJ
+8,Ferramental / Máquina Irregular,REJ
+9,Falha do Operador,REJ
+10,Compra Ferramenta,REJ
+11,Afiar Ferramenta / Polir Matriz,REJ
+12,Falta Dispositivo / Programa,REJ
+13,Faltam acessórios,REJ
+21,Falta Matéria Prima,REJ
+22,Aguardando Operador Anterior,REJ
+23,Falta programação,REJ
+31,Manutenção Elétrica,REJ
+32,Manutenção Mecânica,REJ
+33,Manutenção Preventiva,PAR
+41,Falta de Mão de Obra,PAR
+51,Preparação de Máquina,PAR
+52,Ajuste de Máquina,PAR
+61,Controle de Qualidade,PAR
+71,Engenharia,PAR
+99,Outros,PAR
